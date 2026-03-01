@@ -95,7 +95,7 @@ When clicked:
 
 The working demonstration video for Week 1 is included in this folder:
 
-`JobPilotAI_Week1_Demo.mp4`
+[JobPilotAI_Week1_Demo](https://drive.google.com/file/d/1aMyBrCvg5NKubblVvtaIvJOR-W0kIBWg/view?usp=drive_link)
 
 The video showcases:
 - Complete search workflow
